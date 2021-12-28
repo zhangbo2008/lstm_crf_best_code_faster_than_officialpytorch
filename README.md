@@ -1,3 +1,16 @@
+这里面遗留一个可以改进的
+基于bert的crf需要句子加入<s>, </s>
+这2个也需要算transition矩阵.
+所以跳转的forward和vitebi写法要做一些小改动即可.会让效果更好.
+
+
+
+
+
+
+
+
+
 # LSTM-CRF-pytorch-faster
 
 This is a more than 1000X faster LSTM-CRF implementation modified from the slower version in the Pytorch official tutorial   (URL:https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html). 

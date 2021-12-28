@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a2cc920-0a55-4db0-80f9-c29c6ed0d910" name="Default Changelist" comment="" />
+    <list default="true" id="0a2cc920-0a55-4db0-80f9-c29c6ed0d910" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="22iwl2hDi8Gh0AxsA3r8UA6FKqo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,10 +23,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\LSTM-CRF-pytorch-faster-master" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.LSTM_CRF_faster_parallel2">
     <configuration name="LSTM_CRF_faster_parallel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LSTM-CRF-pytorch-faster-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -41,8 +55,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="LSTM_CRF_faster_parallel2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LSTM-CRF-pytorch-faster-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LSTM_CRF_faster_parallel2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LSTM_CRF_faster_parallel2" />
         <item itemvalue="Python.LSTM_CRF_faster_parallel" />
       </list>
     </recent_temporary>
@@ -59,7 +96,7 @@
       <updated>1640333862808</updated>
       <workItem from="1640333865438" duration="4629000" />
       <workItem from="1640394395910" duration="1282000" />
-      <workItem from="1640404265515" duration="32629000" />
+      <workItem from="1640404265515" duration="35314000" />
     </task>
     <servers />
   </component>
@@ -71,42 +108,42 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="484" y="0" width="488" height="680" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1640574886274" />
-    <state width="1278" height="440" key="DebuggerActiveHint" timestamp="1640657572606">
+    <state width="1278" height="440" key="DebuggerActiveHint" timestamp="1640659855237">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1278" height="440" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1640657572606" />
-    <state width="1237" height="283" key="GridCell.Tab.0.bottom" timestamp="1640657751061">
+    <state width="1278" height="440" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1640659855237" />
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom" timestamp="1640660272114">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="283" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1640657751061" />
-    <state width="1237" height="283" key="GridCell.Tab.0.center" timestamp="1640657751061">
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1640660272114" />
+    <state width="1237" height="166" key="GridCell.Tab.0.center" timestamp="1640660272114">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="283" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1640657751061" />
-    <state width="1237" height="283" key="GridCell.Tab.0.left" timestamp="1640657751061">
+    <state width="1237" height="166" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1640660272114" />
+    <state width="1237" height="166" key="GridCell.Tab.0.left" timestamp="1640660272114">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="283" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1640657751061" />
-    <state width="1237" height="283" key="GridCell.Tab.0.right" timestamp="1640657751061">
+    <state width="1237" height="166" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1640660272114" />
+    <state width="1237" height="166" key="GridCell.Tab.0.right" timestamp="1640660272114">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="283" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1640657751061" />
-    <state width="1237" height="186" key="GridCell.Tab.1.bottom" timestamp="1640656168519">
+    <state width="1237" height="166" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1640660272114" />
+    <state width="1237" height="166" key="GridCell.Tab.1.bottom" timestamp="1640660272114">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="186" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1640656168519" />
-    <state width="1237" height="186" key="GridCell.Tab.1.center" timestamp="1640656168519">
+    <state width="1237" height="166" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1640660272114" />
+    <state width="1237" height="166" key="GridCell.Tab.1.center" timestamp="1640660272114">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="186" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1640656168519" />
-    <state width="1237" height="186" key="GridCell.Tab.1.left" timestamp="1640656168519">
+    <state width="1237" height="166" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1640660272114" />
+    <state width="1237" height="166" key="GridCell.Tab.1.left" timestamp="1640660272114">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="186" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1640656168519" />
-    <state width="1237" height="186" key="GridCell.Tab.1.right" timestamp="1640656168519">
+    <state width="1237" height="166" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1640660272114" />
+    <state width="1237" height="166" key="GridCell.Tab.1.right" timestamp="1640660272114">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="186" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1640656168519" />
+    <state width="1237" height="166" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1640660272114" />
     <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1640656777140">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -124,16 +161,6 @@
           <line>317</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LSTM_CRF_faster_parallel.py</url>
-          <line>365</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LSTM_CRF_faster_parallel.py</url>
-          <line>339</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -148,10 +175,14 @@
         <watch expression="torch.logsumexp(aa, dim=2)" />
         <watch expression="[tags.shape[0],1]" />
         <watch expression="torch.full([tags.shape[0],1],self.tag_to_ix[START_TAG], dtype=torch.long)" />
+        <watch expression=" torch.unsqueeze(self.transitions, 0)" />
+        <watch expression="init_alphas" />
+        <watch expression="training_data" />
       </configuration>
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LSTM_CRF_pytorch_faster_master$LSTM_CRF_faster_parallel.coverage" NAME="LSTM_CRF_faster_parallel Coverage Results" MODIFIED="1640656164803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LSTM_CRF_pytorch_faster_master$LSTM_CRF_faster_parallel2.coverage" NAME="LSTM_CRF_faster_parallel2 Coverage Results" MODIFIED="1640660272101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
